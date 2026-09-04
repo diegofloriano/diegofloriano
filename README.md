@@ -26,12 +26,13 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor focado em 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Contribuições
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diegofloriano&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofloriano&layout=compact&theme=dark)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegofloriano/diegofloriano/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegofloriano/diegofloriano/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/diegofloriano/diegofloriano/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 📫 Onde Me Encontrar
