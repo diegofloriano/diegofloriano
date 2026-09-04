@@ -1,65 +1,41 @@
-# Olá! Eu sou Diego Floriano (diegofloriano)👋  
+# Olá! Eu sou Diego Floriano 👋
 
-💡 Transformo ideias em código e adoro explorar como a tecnologia pode gerar impacto real.  
-Hoje meu foco é unir **Java, TypeScript, Python e Data Science** para criar soluções que façam sentido no mundo real.  
-Desenvolvedor de software em formação.
+Graduado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor focado em **Inteligência Artificial Generativa**, **Python** e **Engenharia de Dados**. Construo soluções práticas que conectam modelos de linguagem locais (Edge AI), pipelines preditivos de Machine Learning e relatórios analíticos de alta performance, com rigor em privacidade de dados, segurança da informação e regras de negócio.
 
 ---
 
-## 🚀 Atuação Profissional  
+## 🛠️ Tecnologias & Habilidades
 
-**Verifone** – Assistente Técnico (2021 – 2022)  
-🔧 Reparos eletrônicos em máquinas de cartão  
-⚡ Manutenção em placas (nível 1, 2 e 3)  
-🛠️ Testes de bancada e troca de componentes  
-
----
-
-## 🛠️ Especialidades  
-
-- Java | TypeScript | Python  
-- SQL & Bancos de Dados  
-- Data Science & Análise de Dados  
-- Gestão de Projetos  
-- Curiosidade sem limite + disciplina pra aprender rápido  
+- **IA Generativa & Edge AI:** Ollama, Meta Llama 3.2, Engenharia de Prompts (Few-Shot, System Prompts, Guardrails anti-alucinação)
+- **Linguagens & Frameworks:** Python, Streamlit, Pandas, NumPy, Scikit-Learn, XGBoost, SQL
+- **Inteligência de Negócios (BI):** Power BI, DAX, Power Query, Modelagem Relacional e Storytelling de Dados
+- **Engenharia de Software:** Git, GitHub, Arquitetura de Software, Cibersegurança e Privacidade de Dados
 
 ---
 
-## 🎯 O que me motiva  
+## 🚀 Projetos em Destaque
 
-Atualmente, mergulhando em **Inteligência Artificial Generativa** 🤖✨  
-Buscando acelerar o aprendizado, criar projetos práticos e transformar complexidade em soluções simples.  
+* **[Léo — Educador Financeiro com IA Generativa Local](https://github.com/diegofloriano/dio-lab-bia-do-futuro)**  
+  Assistente financeiro consultivo construído com Llama 3.2 rodando 100% local via Ollama e interface em Streamlit. Utiliza Pandas para cálculo determinístico de despesas e guardrails rígidos de compliance que educam sem realizar recomendações imperativas de investimento, garantindo zero vazamento de dados.
 
----
+* **Detecção de Fraudes em Transações Financeiras**  
+  Pipeline preditivo de Machine Learning em Python voltado para identificação de operações fraudulentas. Implementado com Scikit-Learn e XGBoost, aplicando técnicas de tratamento de dados desbalanceados (SMOTE/undersampling) e interpretabilidade de decisões com SHAP.
 
-## 🌟 Projetos em destaque  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegofloriano&repo=AnaliseDeDados&theme=dark)](https://github.com/diegofloriano/AnaliseDeDados)  
-
----
-
-## 📊 Github Stats  
-
-![diegofloriano's Github stats](https://github-readme-stats.vercel.app/api?username=diegofloriano&show_icons=true&theme=dark)  
+* **Dashboard de Inteligência Financeira e Orçamentária**  
+  Solução de Business Intelligence desenvolvida em Power BI com modelagem relacional, métricas dinâmicas em DAX, parâmetros de campo e visualizações executivas estruturadas via consultas SQL.
 
 ---
 
-## 🔤 Linguagens mais usadas  
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofloriano&layout=compact&theme=dark)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegofloriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofloriano&layout=compact&theme=dark" alt="Linguagens mais usadas" height="175"/>
+</div>
 
+---
 
-<!--
-**diegofloriano/diegofloriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Onde Me Encontrar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [linkedin.com/in/diego-floriano](https://www.linkedin.com/in/diego-floriano/)
+- **GitHub:** [github.com/diegofloriano](https://github.com/diegofloriano)
