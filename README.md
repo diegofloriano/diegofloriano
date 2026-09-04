@@ -18,10 +18,10 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor focado em 
 * **[Léo — Educador Financeiro com IA Generativa Local](https://github.com/diegofloriano/dio-lab-bia-do-futuro)**  
   Assistente financeiro consultivo construído com Llama 3.2 rodando 100% local via Ollama e interface em Streamlit. Utiliza Pandas para cálculo determinístico de despesas e guardrails rígidos de compliance que educam sem realizar recomendações imperativas de investimento, garantindo zero vazamento de dados.
 
-* **Detecção de Fraudes em Transações Financeiras**  
+* **[Detecção de Fraudes em Transações Financeiras](https://github.com/diegofloriano/Deteccao-fraudes-transacoes-DIO)**  
   Pipeline preditivo de Machine Learning em Python voltado para identificação de operações fraudulentas. Implementado com Scikit-Learn e XGBoost, aplicando técnicas de tratamento de dados desbalanceados (SMOTE/undersampling) e interpretabilidade de decisões com SHAP.
 
-* **Dashboard de Inteligência Financeira e Orçamentária**  
+* **[Dashboard de Inteligência Financeira e Orçamentária](https://github.com/diegofloriano/Relatorio_Dinamico_Parametros_PowerBI_DIO)**  
   Solução de Business Intelligence desenvolvida em Power BI com modelagem relacional, métricas dinâmicas em DAX, parâmetros de campo e visualizações executivas estruturadas via consultas SQL.
 
 ---
