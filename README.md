@@ -28,9 +28,9 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor focado em 
 
 ## 📊 Estatísticas & Atividade
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=diegofloriano&theme=dark)
-
-![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=diegofloriano&theme=react-dark)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegofloriano&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
