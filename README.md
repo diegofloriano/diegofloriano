@@ -28,10 +28,9 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, desenvolvedor focado em 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofloriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofloriano&layout=compact&theme=dark" alt="Linguagens mais usadas" height="175"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diegofloriano&show_icons=true&theme=dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofloriano&layout=compact&theme=dark)
 
 ---
 
